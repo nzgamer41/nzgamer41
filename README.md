@@ -1,4 +1,11 @@
 ### Hi there 👋
+This is the Github profile for Alex Cheer (nzgamer41). I hold a BSc(CompSci) from Waikato University, and a Microsoft Office Specialist in Word 2013 qualification. I primarily develop in C#, with some C++ and other similar desktop languages on the side. I have a competent understanding of most programming languages such as Python, JavaScript and Java.
+
+- 👯 I’m looking to collaborate on any C# project
+- 💬 Ask me about C#, ASP.Net, WebSockets in C#
+- 📫 How to reach me: hello@alexcheer.tech or nzgamer41#5424 on Discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am currently working in IT instead of 
 
 <!--
 **nzgamer41/nzgamer41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
