@@ -5,9 +5,8 @@ I'm not the most creative person so ideas don't often come naturally to me, but 
 
 - 👯 I’m looking to collaborate on any C# project
 - 💬 Ask me about C#, ASP.Net, WebSockets in C#
-- 📫 How to reach me: hello@alexcheer.tech or nzgamer41#5424 on Discord
+- 📫 How to reach me: hello@alexcheer.tech
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am currently working for a MSP (so not necessarily using my degree to it's fullest)
 <!--
 **nzgamer41/nzgamer41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
