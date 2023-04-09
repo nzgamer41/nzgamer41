@@ -7,6 +7,10 @@ I'm not the most creative person so ideas don't often come naturally to me, but 
 - 💬 Ask me about C#, ASP.Net, WebSockets in C#
 - 📫 How to reach me: hello@alexcheer.tech
 - 😄 Pronouns: he/him
+
+## PLEASE NOTE
+I no longer have a public facing Discord account. Anyone pretending to be nzgamer41 on Discord is not me!
+
 <!--
 **nzgamer41/nzgamer41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
