@@ -8,9 +8,6 @@ I'm not the most creative person so ideas don't often come naturally to me, but 
 - 📫 How to reach me: hello@alexcheer.tech
 - 😄 Pronouns: he/him
 
-## PLEASE NOTE
-nzgamer41 is my only discord account!
-
 <!--
 **nzgamer41/nzgamer41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
